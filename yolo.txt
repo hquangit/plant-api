@@ -1,0 +1,8 @@
+weed: lolium rigidum
+weed: rapistrum rugosum
+weed: rapistrum rugosum
+weed: sonchus oleraceus
+weed: raphanus raphanistrum
+weed: lolium rigidum
+weed: rapistrum rugosum
+weed: amaranthus palmeri
